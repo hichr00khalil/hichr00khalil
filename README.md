@@ -31,8 +31,15 @@ I love building applications and exploring new technologies. 🚀
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+    <img height="40" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://www.svgrepo.com/show/376344/python.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+
+
+
+  
 </div>  
 
 ---
