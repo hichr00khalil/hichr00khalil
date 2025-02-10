@@ -7,10 +7,10 @@
 ### 👋 Hello, World!  
 
 I'm **Hichri Khalil**, a passionate **Full-Stack Developer** from Tunisia.  
-I love building scalable applications and exploring new technologies. 🚀  
+I love building applications and exploring new technologies. 🚀  
 
-- 🔥 Currently diving deeper into **DevOps & Cloud Computing**.  
-- 💡 Interested in **Software Architecture, AI, and Automation**.  
+- 🔥 Currently diving deeper into **DevOps**.  
+- 💡 Interested in **Software Architecture and AI**.  
 - 🎯 Always looking for exciting challenges and collaborations.  
 
 ---
@@ -20,7 +20,7 @@ I love building scalable applications and exploring new technologies. 🚀
 <a href="https://www.linkedin.com/in/hichri-khalil/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" />
 </a>
-<a href="mailto:hichri.khalil99@gmail.com">
+<a href="mailto:hichrikhalilo06@gmail.com">
   <img src="https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png" alt="Email" height="40">
 </a>
 
