@@ -1,7 +1,7 @@
 ## 🏆 Hichri Khalil  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/custom-coder-image.png" alt="coding-life" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU2bGl3eWZpeW02ZmJ4aDUybXVld3RwN2o0eGIzdXBkdGNhdzg0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" alt="keep coding" />
 </div>
 
 ### 👋 Hello, World!  
