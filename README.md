@@ -17,10 +17,13 @@ I love building applications and exploring new technologies. 🚀
 
 ### 🌐 Connect with Me  
 
+<a href="mailto:hichrikhalilo06@gmail.com">  
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-logo-icon-download-in-svg-png-gif-file-formats--gmail-one-ui-pack-logos-icons-3955524.png" alt="Email" height="40">
+</a>
 <a href="https://www.linkedin.com/in/hichri-khalil/" target="_blank">
   <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" height="40" />
-</a><a href="mailto:hichrikhalilo06@gmail.com">  <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-logo-icon-download-in-svg-png-gif-file-formats--gmail-one-ui-pack-logos-icons-3955524.png" alt="Email" height="40">
 </a>
+
 
 
 ---
@@ -32,7 +35,7 @@ I love building applications and exploring new technologies. 🚀
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
     <img height="40" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg"/>
   <img height="40" src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png"/>
-  <img height="40" src="https://www.svgrepo.com/show/376344/python.svg"/>
+  <img height="40" src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 
