@@ -18,10 +18,10 @@ I love building applications and exploring new technologies. 🚀
 ### 🌐 Connect with Me  
 
 <a href="https://www.linkedin.com/in/hichri-khalil/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" />
+  <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" height="40" />
 </a>
 <a href="mailto:hichrikhalilo06@gmail.com">
-  <img src="https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png" alt="Email" height="40">
+  <img src="https://static.vecteezy.com/system/resources/previews/029/284/972/non_2x/gmail-logo-google-product-icon-of-logotype-gmail-new-google-gmail-application-icon-gmail-is-popular-internet-online-e-mail-free-vector.jpg" alt="Email" height="40">
 </a>
 
 ---
