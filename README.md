@@ -29,7 +29,7 @@ I love building applications and exploring new technologies. 🚀
 ### 🛠️ Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
     <img height="40" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
