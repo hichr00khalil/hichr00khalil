@@ -52,7 +52,7 @@ I love building applications and exploring new technologies. 🚀
     <tbody>
         <tr valign="top">
            <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichriKhalil&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=hichr00khalil&theme=midnight-purple&hide_border=true" alt="stats"/>
           </td>
         </tr>
     </tbody>
