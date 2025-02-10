@@ -21,7 +21,7 @@ I love building applications and exploring new technologies. 🚀
   <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" height="40" />
 </a>
 <a href="mailto:hichrikhalilo06@gmail.com">
-  <img src="https://e7.pngegg.com/pngimages/881/200/png-clipart-mailing-envelope-logo-email-marketing-computer-icons-email-miscellaneous-web-design.png" alt="Email" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-logo-icon-download-in-svg-png-gif-file-formats--gmail-one-ui-pack-logos-icons-3955524.png" alt="Email" height="40">
 </a>
 
 ---
