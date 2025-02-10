@@ -32,13 +32,7 @@ I love building applications and exploring new technologies. 🚀
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
 </div>  
 
 ---
