@@ -1,7 +1,7 @@
 ## 🏆 Hichri Khalil  
 
 <div align="center">
-  <img src=" " alt="keep coding" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6dTNwZjlvcWZnZWpubmc5MzB5ZjFlajdmeHZlbmZ6OGd4ZDhkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyp0k7WuLz79is0azg/giphy.gif" alt="keep coding" />
 </div>
 
 ### 👋 Hello, World!  
