@@ -1,16 +1,62 @@
-## Hi there 👋
+## 🏆 Hichri Khalil  
 
-<!--
-**hichr00khalil/hichr00khalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/custom-coder-image.png" alt="coding-life" />
+</div>
 
-Here are some ideas to get you started:
+### 👋 Hello, World!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Hichri Khalil**, a passionate **Full-Stack Developer** from Tunisia.  
+I love building scalable applications and exploring new technologies. 🚀  
+
+- 🔥 Currently diving deeper into **DevOps & Cloud Computing**.  
+- 💡 Interested in **Software Architecture, AI, and Automation**.  
+- 🎯 Always looking for exciting challenges and collaborations.  
+
+---
+
+### 🌐 Connect with Me  
+
+<a href="https://www.linkedin.com/in/hichri-khalil/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" />
+</a>
+<a href="mailto:hichri.khalil99@gmail.com">
+  <img src="https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png" alt="Email" height="40">
+</a>
+
+---
+
+### 🛠️ Tech Stack  
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
+</div>  
+
+---
+
+### 📊 GitHub Stats  
+
+<table style="border: none; margin: auto;">
+    <tbody>
+        <tr valign="top">
+           <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichriKhalil&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+          </td>
+        </tr>
+    </tbody>
+</table>  
+
+---
+
+### 🚀 Fun Fact  
+
+💻 "Code is like humor. When you have to explain it, it’s bad." 😆  
