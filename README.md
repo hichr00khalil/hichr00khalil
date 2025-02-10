@@ -53,10 +53,7 @@ I love building applications and exploring new technologies. 🚀
         <tr valign="top">
            <td>
             <img src="https://github-readme-stats.vercel.app/api?username=hichr00khalil&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="stats"/>
-          </td>
-           <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichr00khalil&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="top"/>
-          </td>
+           </td>
         </tr>
     </tbody>
 </table>  
