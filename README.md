@@ -32,7 +32,7 @@ I love building applications and exploring new technologies. 🚀
   <img height="40" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
     <img height="40" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png"/>
   <img height="40" src="https://www.svgrepo.com/show/376344/python.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
